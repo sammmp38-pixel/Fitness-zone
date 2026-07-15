@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Zone",
+  "description": "A premium gym and fitness center landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
